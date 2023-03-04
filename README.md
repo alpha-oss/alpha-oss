@@ -6,7 +6,7 @@
 <h2> Hello! I'm Monish Shetty.👋</h2>
 
 # 💫 About Me:
-👨🏽‍💻 Programming enthusiast, figuring out various new skills.<br> 🎓Final Year CSE under-grad.<br>🌱 Currently Meditating<br>⚡ Man Utd & Ferrari fan.
+👨🏽‍💻 Programming enthusiast <br> 🎓 Final Year CSE student<br>🌱 Exploring new skills.<br>
 
 
 ## 🌐 Socials:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> 
@@ -19,9 +19,3 @@
   <a href="mailto:monish.shetty770@gmail.com">
     <img align="left" alt="Monish Shetty | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-
-
-<!--
-## Contribute ##
-All the developed Apps/Products are completely Free to use. You can contribute if you want :)<br><br>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/binayshaw7777) -->
