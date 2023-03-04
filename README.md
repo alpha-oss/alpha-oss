@@ -6,7 +6,7 @@
 <h2> Hello! I'm Monish Shetty.👋</h2>
 
 # 💫 About Me:
-👨🏽‍💻 Programming enthusiast figuring out various new skills.<br> 🎓Final Year CSE under-grad.<br>🌱 Currently Meditating<br>⚡ Man Utd & Ferrari fan.
+👨🏽‍💻 Programming enthusiast, figuring out various new skills.<br> 🎓Final Year CSE under-grad.<br>🌱 Currently Meditating<br>⚡ Man Utd & Ferrari fan.
 
 
 ## 🌐 Socials:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> 
@@ -19,23 +19,6 @@
   <a href="mailto:monish.shetty770@gmail.com">
     <img align="left" alt="Monish Shetty | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-
-
-# 📊 GitHub Stats:
-div align="center" width=100%>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alpha-oss&theme=prussian&hide_border=true)<br/>
-</div
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alpha-oss&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-
-# ⭐ Stats 
-<div align="center">
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=alpha-oss&theme=xcode)](https://github.com/alpha-oss) <br>
-</div
-
-![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 <!--
