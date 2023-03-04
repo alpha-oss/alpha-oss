@@ -1,5 +1,5 @@
 <p>
-   <img src="https://user-images.githubusercontent.com/62587060/155869994-699a077f-fffc-4ffd-816d-fd7cab5ed512.png"/>
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  </p>
 
 <h2> Hello! I'm Monish Shetty.👋</h2>
