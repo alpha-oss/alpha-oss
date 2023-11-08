@@ -5,8 +5,7 @@
 <h2> Hello, I'm Monish Shetty👋</h2>
 
 ### 💫About Me:
-- Programming enthusiast 
-- Final Year CSE student<br> 
+- Programming enthusiast  
 - Interested in web-development 
 - Try to contribute in open-source projects
 
